@@ -8,7 +8,7 @@ This is the basic stance for the classroom.
 
 
 ## Footwork
-Footwork is on 45 degrees position. Not too wide and not too close to make a stable stance. Toes pointed to the attacker. More info [45 degrees footwork](../../footwork/45degrees)
+Footwork is on 45 degrees position. Not too wide and not too close to make a stable stance. Toes pointed to the attacker. More info [45 degrees footwork](../../footwork/45_degrees)
 
 
 ## Hands position

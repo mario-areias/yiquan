@@ -8,12 +8,12 @@ This technique is a basic deflection. It can used from the [neutral](../../stanc
 
 ## Footwork
 
-This technique uses the [45 degrees footwork](../../footwork/45degrees) forward and backward.
+This technique uses the [45 degrees footwork](../../footwork/45_degrees) forward and backward.
 
 
 ## Technique
 
-The hands are used to protect the head. The hand should be open and straight with the fingers together including thumb. The hand should move to be close to the ear exposing the elbow. This is good technique to defend agains round punches by doing a 45 degrees footwork forward. But it can be used to defend straight punches as well by doing a 45 degrees footwork backward. The other hand should be up ready to defend another strike or land a punch in a combination.
+The hands are used to protect the head. The hand should be open and straight with the fingers together including thumb. The hand should move to be close to the ear exposing the elbow. This is good technique to defend against round punches by doing a 45 degrees footwork forward. But it can be used to defend straight punches as well by doing a 45 degrees footwork backward. The other hand should be up ready to defend another strike or land a punch in a combination.
 
 ## Tips and tricks
 

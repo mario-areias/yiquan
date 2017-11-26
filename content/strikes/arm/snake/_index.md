@@ -8,7 +8,7 @@ This technique starts from [classroom stance](../../../stances/classroom).
 
 ## Hand position
 
-Very similar to the [open hand position](../openhand#hand-position), palm must be and fingers together with the thumb close to the hand to avoid any injuries on it.
+Very similar to the [open hand position](../open_hand#hand-position), palm must be and fingers together with the thumb close to the hand to avoid any injuries on it.
 
 ## Snake
 

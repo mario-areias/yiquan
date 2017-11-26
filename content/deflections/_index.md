@@ -7,7 +7,7 @@ chapter: true
 
 # Deflections
 
-This section is to deflections on Yi Quan Kung Fu
+This section is to describe deflections on Yi Quan Kung Fu
 
 
 

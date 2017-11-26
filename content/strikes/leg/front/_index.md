@@ -12,4 +12,4 @@ Same principle applies from the [straight punch](../../arm/punch) regarding body
 
 ## Combinations
 
-Front kick is usually used in combinations, since they are a bit more slow than punches. They're perfect when the target goes backwards, front kick is a good technique to inflict damage and reduce the gap between you and the attacker.
+Front kick is usually used in combinations, since they are a bit more slow than punches. They're perfect when the target goes backwards, front kick is a good technique to inflict damage and reduce the gap between the defender and the attacker.

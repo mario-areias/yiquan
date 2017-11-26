@@ -9,7 +9,7 @@ This technique is a basic deflection. It can used from the [neutral](../../stanc
 
 ## Footwork
 
-This technique uses the [45 degrees footwork](../../footwork/45degrees) backward.
+This technique uses the [45 degrees footwork](../../footwork/45_degrees) backward.
 
 
 ## Technique
