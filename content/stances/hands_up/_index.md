@@ -7,4 +7,4 @@ draft: true
 
 This position is similar to the [Classroom](../classroom/) position.
 
-The only difference is the handwork. Both hands should be open with finger loose protecting the head and point to the attacker.
+The only difference is the handwork. Both hands should be open with finger loose protecting the head and point to the attacker. Elbows need to be a bit bent as well. This stance is important because it makes easier to defend the head, using salutes and slaps. 

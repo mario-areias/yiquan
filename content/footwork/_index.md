@@ -5,4 +5,11 @@ draft: true
 chapter: true
 ---
 
-Footwork
+# Footwork
+
+
+This section is to describe footwork on Yi Quan Kung Fu
+
+
+
+{{% children %}}
