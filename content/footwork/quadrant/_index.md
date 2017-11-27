@@ -1,7 +1,7 @@
 ---
 title: "Quadrant Stepping"
 date: 2017-11-25T17:03:55+11:00
-draft: true
+draft: false
 ---
 
 This techniques starts from [classroom stance](../../stances/classroom). The goal for this technique is to be able to step to the sides while fighting. When the leg moves, it needs to protect the groing like in [bamboo stepping](../bamboo).

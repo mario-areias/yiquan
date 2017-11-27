@@ -1,7 +1,7 @@
 ---
 title: "Origin and background"
 date: 2017-11-26T21:50:32+11:00
-draft: true
+draft: false
 ---
 
 Yiquan is a old martial art. It comes all the way through from ancient China circa 900 years ago. It's battle tested and use in combat many times during Chinese history. It's one of the most effectives kung fu styles as well.

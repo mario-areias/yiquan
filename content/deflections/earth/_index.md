@@ -1,7 +1,7 @@
 ---
 title: "Earth block"
 date: 2017-11-26T15:31:06+11:00
-draft: true
+draft: false
 ---
 
 This technique is a basic deflection. It can used from the [neutral](../../stances/neutral), [classroom](../../stances/classroom) and [hands up](../../stances/hands_up) stances.

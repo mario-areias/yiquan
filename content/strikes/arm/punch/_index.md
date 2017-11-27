@@ -1,7 +1,7 @@
 ---
 title: "Punch"
 date: 2017-11-25T17:29:25+11:00
-draft: true
+draft: false
 ---
 
 This is the basic punch technique, it starts from [classroom stance](../../../stances/classroom).

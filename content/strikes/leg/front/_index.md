@@ -1,7 +1,7 @@
 ---
 title: "Front Kick"
 date: 2017-11-26T14:46:58+11:00
-draft: true
+draft: false
 ---
 
 This technique starts from [classroom stance](../../../stances/classroom).

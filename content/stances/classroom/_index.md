@@ -1,7 +1,7 @@
 ---
 title: "Classroom Right/Left"
 date: 2017-11-12T21:48:34+12:00
-draft: true
+draft: false
 ---
 
 This is the basic stance for the classroom.

@@ -1,7 +1,7 @@
 ---
 title: "Groin Kick"
 date: 2017-11-26T14:47:02+11:00
-draft: true
+draft: false
 ---
 
 This technique starts from [classroom stance](../../../stances/classroom).

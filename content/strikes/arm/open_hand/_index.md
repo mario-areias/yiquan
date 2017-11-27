@@ -1,7 +1,7 @@
 ---
 title: "Open Hand"
 date: 2017-11-25T17:29:29+11:00
-draft: true
+draft: false
 ---
 
 This technique starts from [classroom stance](../../../stances/classroom).

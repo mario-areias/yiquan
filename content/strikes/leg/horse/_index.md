@@ -1,7 +1,7 @@
 ---
 title: "Horse Kick"
 date: 2017-11-26T14:47:06+11:00
-draft: true
+draft: false
 ---
 
 This technique starts from [classroom stance](../../../stances/classroom).
