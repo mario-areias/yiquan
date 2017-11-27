@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mario-areias.github.io/yiquan/</loc>
+    <lastmod>2017-11-27T19:44:29+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mario-areias.github.io/yiquan/theory/origin/</loc>
     <lastmod>2017-11-26T21:50:32+11:00</lastmod>
   </url>
@@ -169,11 +174,6 @@
   
   <url>
     <loc>https://mario-areias.github.io/yiquan/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mario-areias.github.io/yiquan/</loc>
     <priority>0</priority>
   </url>
   

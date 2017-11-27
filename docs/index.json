@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://mario-areias.github.io/yiquan/",
+	"title": "Home Page",
+	"tags": [],
+	"description": "",
+	"content": " Home page This is my page with studies and annotations from Yiquan Kung fu.\n"
+},
+{
 	"uri": "https://mario-areias.github.io/yiquan/theory/origin/",
 	"title": "Origin and background",
 	"tags": [],
@@ -233,13 +240,6 @@
 {
 	"uri": "https://mario-areias.github.io/yiquan/tags/",
 	"title": "Tags",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://mario-areias.github.io/yiquan/",
-	"title": "Yiquan",
 	"tags": [],
 	"description": "",
 	"content": ""
