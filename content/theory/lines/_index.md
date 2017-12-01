@@ -8,7 +8,7 @@ This is a brief description of the Yi Quan lines.
 
 ## Earth line
 
-Earth line is the line of gravity, center of the balance. Attack aiming for the Earth line are very effective. The Earth line goes from the middle of the cranium passing through the middle of the body and finally ending up on the middle of the groin.
+Earth line is the line of gravity, center of the balance. Attack aiming for the Earth line are very effective. The Earth line  goes from the middle of the cranium passing through the middle of the body and finally ending up on the middle of the groin.
 
 ## Center line
 
