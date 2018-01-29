@@ -4,7 +4,7 @@ date: 2017-11-25T16:38:18+11:00
 draft: false
 ---
 
-Bamboo steeping starts from [classroom stance](../../stances/classroom/) and it's very important to do combinations. The goal for this technique is to allow the martial artist to step forward and back while fighting.
+Bamboo stepping starts from [classroom stance](../../stances/classroom/) and it's very important to do combinations. The goal for this technique is to allow the martial artist to step forward and back while fighting.
 
 ## Stepping forward
 
