@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horse on Yiquan</title>
+    <link>https://mario-areias.github.io/yiquan/stances/horse/</link>
+    <description>Recent content in Horse on Yiquan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2017 18:55:40 +1100</lastBuildDate>
+    
+	<atom:link href="https://mario-areias.github.io/yiquan/stances/horse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
