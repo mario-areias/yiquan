@@ -9,6 +9,3 @@ Short Flat Walk starts from [neutral stance](../../stances/neutral/), it is base
 ## Stepping forward
 
 Move the front leg forward in a straight line and then the back leg forward as well landing the back foot together with the front foot. Repeat using the foot as the front one.  
-
-
-TODO: Picture

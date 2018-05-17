@@ -9,6 +9,4 @@ This is similar to [Short Flak Walk](../flat_walk). Starts from [neutral stance]
 
 ## Stepping forward
 
-Move the front foot 45 degrees and then move the back foot to land right next to the front foot, very similar to [Short Flak Walk](../flat_walk). Then the back foot becomes the front foot and repeat the movement. Going 45 degrees with each leg makes you walk forward.
-
-TODO: picture
+Move the front foot forward and put the back foot close together. Then move the backfoot 45 degrees forward and move the other foot close together. The repetition of this movement (backfoot moving 45 degrees and the other foot moving together) is the single bamboo.
