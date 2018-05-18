@@ -12,4 +12,4 @@ Same principle applies from the [straight punch](../../arm/punch) regarding body
 
 ## Combinations
 
-Groig kick is usually used in combinations, since they are a bit more slow than punches. They're perfect when the target moves backwards that out of reach from your punches but not that far to hit a front kick.
+Groin kick is usually used in combinations, since they are a bit more slow than punches. They're perfect when the target moves backwards out of reach from your punches but not that far to hit a groin kick.
