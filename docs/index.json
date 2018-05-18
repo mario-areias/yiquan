@@ -1,7 +1,21 @@
 [
 {
+	"uri": "https://mario-areias.github.io/yiquan/deflections/reflex_guard/",
+	"title": "Reflex guard",
+	"tags": [],
+	"description": "",
+	"content": "This is a deflection technique to be used with a 45 degree footwork and hands up to protect the head. This a deflection based on the reflex, when a straight punch comes through, the defender moves both hands to the side to deflect the attack. Against a round punch, the defenders pulls back both hands and move them close to their head in order to to deflect the attack.\n"
+},
+{
+	"uri": "https://mario-areias.github.io/yiquan/strikes/leg/knees/",
+	"title": "Knees",
+	"tags": [],
+	"description": "",
+	"content": " Like elbows knees are powerful techniques to be used in closed combat, particularly, after a monkey grab. The timing is very important though, the knee should hit at the same time as the attacker goes down to maximise impact.\nStraight This is a straight knee. Although the knee should come up high and solid it should also go forward into the attacker\u0026rsquo;s earth line and dantian. Quite useful after a straight monkey grab.\nRound This is a round knee. Similar to the straight knee, this one also applies a bit of rotation to the knee before hitting the attacker. This is particularly useful when using a monkey grab from the side.\n"
+},
+{
 	"uri": "https://mario-areias.github.io/yiquan/strikes/leg/side_kick/",
-	"title": "Round House",
+	"title": "Side Kick",
 	"tags": [],
 	"description": "",
 	"content": "This technique is similar to other kick techniques in the sense the leg that kicks is the light leg. Also, the knee should come up high and the toes should go up as the front kick. The aim is to hit the dantian of the attacker. This is done by turning the knees inwards and hitting the target area.\n"
@@ -207,7 +221,7 @@
 	"title": "Leg Strikes",
 	"tags": [],
 	"description": "",
-	"content": "This section is to describe leg strikes on Yi Quan Kung Fu\n Round House   Round House   Horse Kick   Groin Kick   Front Kick   "
+	"content": "This section is to describe leg strikes on Yi Quan Kung Fu\n Knees   Side Kick   Round House   Horse Kick   Groin Kick   Front Kick   "
 },
 {
 	"uri": "https://mario-areias.github.io/yiquan/strikes/arm/",
@@ -263,7 +277,7 @@
 	"title": "Deflections",
 	"tags": [],
 	"description": "",
-	"content": " Deflections This section is to describe deflections on Yi Quan Kung Fu\n Earth block   Slap   Salute   "
+	"content": " Deflections This section is to describe deflections on Yi Quan Kung Fu\n Reflex guard   Earth block   Slap   Salute   "
 },
 {
 	"uri": "https://mario-areias.github.io/yiquan/strikes/",
