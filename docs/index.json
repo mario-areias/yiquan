@@ -1,5 +1,19 @@
 [
 {
+	"uri": "https://mario-areias.github.io/yiquan/strikes/head_butt/",
+	"title": "Head Butt",
+	"tags": [],
+	"description": "",
+	"content": "This is a movement to be used in a close combat. Unlock the knees, put the shin back and with the top the head hit forward.\n"
+},
+{
+	"uri": "https://mario-areias.github.io/yiquan/strikes/arm/elbows/",
+	"title": "Intercepting Footwork",
+	"tags": [],
+	"description": "",
+	"content": " Elbows are quite powerful techniques designed for a close combat. Elbows are used in conjunction with the elements:\nFire It is a strike forward with the arm in a horizontal position usually to try to hit the throat. The knees make the body go forward, but it needs to be careful to don\u0026rsquo;t stretch the upper body.\nWater It is also a strike forward but the arm is in a vertical position also to aim the throat or the head in general. This one needs to be careful to not hit upwards.\nWood It is an elbow to be used when an attacker is coming from behind and is aiming at the dantian. Wood elbows are quite powerful and the main reason is because it needs to be done in a very straight move. It needs to turn the upper body a bit in order to hit the dantian, but be careful to don\u0026rsquo;t turn that much.\nEarth Backwards Elbow As an wood elbow, this one is also a movement to use when an attacker is coming from behind. Instead, it is used to hit the head rather than the dantian. It is important to turn the head and look at the attacker before use this elbow. This elbow is used as a low to high technique, in the sense, the elbows start at the low level and goes high up to the head to the attacker.\nSide Elbow This is also an earth elbow. But this is to use when an attacker is on the side. It is useful in combination with Fire Elbow, after the Fire Elbow, just move your upper body a bit to the side and hit the attacker again.\nMetal This is a high to low technique. It is a similar movement from an axe. It needs a bit of flexibility in order to execute the movement properly.\n"
+},
+{
 	"uri": "https://mario-areias.github.io/yiquan/strikes/arm/dao_shou/",
 	"title": "Dao Shou",
 	"tags": [],
@@ -186,7 +200,7 @@
 	"title": "Arm Strikes",
 	"tags": [],
 	"description": "",
-	"content": "This section is to describe arm strikes on Yi Quan Kung Fu\n Dao Shou   Crane   Snake   Open Hand   Punch   "
+	"content": "This section is to describe arm strikes on Yi Quan Kung Fu\n Intercepting Footwork   Dao Shou   Crane   Snake   Open Hand   Punch   "
 },
 {
 	"uri": "https://mario-areias.github.io/yiquan/footwork/quadrant/",
@@ -242,7 +256,7 @@
 	"title": "Strikes",
 	"tags": [],
 	"description": "",
-	"content": " Strikes This section is to describe strikes techniques on Yi Quan Kung Fu\n Leg Strikes   Arm Strikes   "
+	"content": " Strikes This section is to describe strikes techniques on Yi Quan Kung Fu\n Head Butt   Leg Strikes   Arm Strikes   "
 },
 {
 	"uri": "https://mario-areias.github.io/yiquan/footwork/",
