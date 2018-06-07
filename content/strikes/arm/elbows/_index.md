@@ -1,5 +1,5 @@
 ---
-title: "Intercepting Footwork"
+title: "Elbows"
 date: 2018-05-17T19:08:32+11:00
 draft: false
 ---
@@ -22,7 +22,7 @@ It is an elbow to be used when an attacker is coming from behind and is aiming a
 
 ### Backwards Elbow
 
-As an wood elbow, this one is also a movement to use when an attacker is coming from behind. Instead, it is used to hit the head rather than the dantian. It is important to turn the head and look at the attacker before use this elbow. This elbow is used as a low to high technique, in the sense, the elbows start at the low level and goes high up to the head to the attacker.
+As a wood elbow, this one is also a movement to use when an attacker is coming from behind. Instead, it is used to hit the head rather than the dantian. It is important to turn the head and look at the attacker before use this elbow. This elbow is used as a low to high technique, in the sense, the elbows start at the low level and goes high up to the head to the attacker.
 
 ### Side Elbow
 
