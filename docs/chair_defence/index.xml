@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chair Defence on Yiquan</title>
+    <link>https://mario-areias.github.io/yiquan/chair_defence/</link>
+    <description>Recent content in Chair Defence on Yiquan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jun 2018 19:11:22 +1100</lastBuildDate>
+    
+	<atom:link href="https://mario-areias.github.io/yiquan/chair_defence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
